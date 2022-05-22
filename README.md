@@ -1,2 +1,2 @@
-# dsp_labs_book
+# ITMO Digital Signal Processes (Lab course)
 Digital Signal Processes (Lab)
