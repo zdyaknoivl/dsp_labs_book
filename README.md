@@ -13,7 +13,7 @@
 **Content:** the repository contains materials (now only in russian language) for self-performing four labs. The titles of the labs are listed below.
 
 - **Lab work 1.** Signals ([link](https://github.com/itmo-mbss-lab/dsp_labs_book/blob/main/lab1.ipynb)).
-- **Lab work 2.** Analyze ([link](https://github.com/itmo-mbss-lab/dsp_labs_book/blob/main/lab2.ipynb)).
+- **Lab work 2.** Signal analysis ([link](https://github.com/itmo-mbss-lab/dsp_labs_book/blob/main/lab2.ipynb)).
 - **Lab work 3.** Filters ([link](https://github.com/itmo-mbss-lab/dsp_labs_book/blob/main/lab3.ipynb)).
 - **Lab work 4.** Acoustic features ([link](https://github.com/itmo-mbss-lab/dsp_labs_book/blob/main/lab4.ipynb)).
 
