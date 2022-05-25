@@ -1,8 +1,8 @@
-# ITMO Digital Signal Processes (Lab course)
+# ITMO Digital Signal Processing
 
 **Authors:** Shuranov E., Meshcheryakov I., Volokhov V., Makhnytkina O.
 
-**Description:** the project is related to the development of labs for the ITMO Digital Signal Processes Course.
+**Description:** the project is related to the development of labs for the ITMO Digital Signal Processing Course.
 
 **Keywords:** digital signal processing, digital signal, signal analysis, digital filter, acoustic features, voice activity detector.
 
