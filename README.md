@@ -8,7 +8,7 @@
 
 **Data:** All data for labs can be found in resources folder [here](https://github.com/itmo-mbss-lab/dsp_labs_book/tree/main/resources).
 
-![image](https://user-images.githubusercontent.com/102772680/169689430-004ad3d4-26ae-4ff7-bba5-0dbf04c111eb.png)
+![Digital Signal Processing Course](https://user-images.githubusercontent.com/102772680/170349614-401e2e72-0cb6-45e9-a1fa-1ae60a68b540.png)
 
 **Content:** the repository contains materials (now only in russian language) for self-performing four labs. The titles of the labs are listed below.
 
