@@ -1,4 +1,4 @@
-# ITMO Digital Signal Processing
+# ITMO Digital Signal Processing Course
 
 **Authors:** Shuranov E., Meshcheryakov I., Volokhov V., Makhnytkina O.
 
