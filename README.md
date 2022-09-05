@@ -17,4 +17,4 @@
 - **Lab work 3.** Filters ([link](https://github.com/itmo-mbss-lab/dsp_labs_book/blob/main/lab3.ipynb)).
 - **Lab work 4.** Acoustic features ([link](https://github.com/itmo-mbss-lab/dsp_labs_book/blob/main/lab4.ipynb)).
 
-**A draft description of these labs** (now only in russian language) can be found [here]().
+**A draft description of these labs** (now only in russian language) can be found [here](https://books.ifmo.ru/file/pdf/3111.pdf).
